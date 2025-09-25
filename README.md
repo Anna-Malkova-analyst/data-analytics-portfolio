@@ -10,7 +10,7 @@ My name is Anna. I am an analyst with experience in commercial analytics and cur
 - **Excel / Google Sheets:** complex formulas, pivot tables, Power Query  
 - **BI Tools:** DataLens, Looker Studio, Power BI (currently learning)  
 
-## Projects
+## Table of Contents
 In this repository, I share my educational projects and personal exercises:   
 - SQL
 - Python
