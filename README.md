@@ -1,8 +1,8 @@
-# data-analytics-portfolio
+# Anna Malkova - Data Analyst Portfolio
 Portfolio of data analytics projects (SQL, Python, BI)
 # Hi! 👋
 
-My name is Anna Malkova. I am an analyst with experience in commercial analytics and currently developing my skills in data analysis. I enjoy applying analytics to solve real business problems and learning new tools.
+My name is Anna. I am an analyst with experience in commercial analytics and currently developing my skills in data analysis. I enjoy applying analytics to solve real business problems and learning new tools.
 
 ## Skills
 - **SQL (PostgreSQL):** SELECTs, JOINs, CTEs, window functions  
