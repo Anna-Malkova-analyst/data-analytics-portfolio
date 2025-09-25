@@ -19,4 +19,4 @@ In this repository, I share my educational projects and personal exercises:
 I am constantly improving my skills and aim to apply them to real data to help businesses make informed decisions.
 
 ---
-[My CV in PDF](Anna_Malkova_CV.pdf)
+My CV in [PDF](Anna_Malkova_CV.pdf)
