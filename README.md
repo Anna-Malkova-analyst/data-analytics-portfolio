@@ -50,6 +50,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** DataLens, SQL.
 
-**Code / Queries:** [`SQL Queries`](#)  
+**Code / Queries:** [`SQL Queries`](DeliveryService_KPIs_Saranck.sql)  
 **Dashboard:** [`DataLens Dashboard`](https://datalens.yandex/01cxdv7d0mm6l)  
 **Analytical Note:** [`Report`](https://disk.yandex.kz/i/IlaU74xJs_LIrA)
