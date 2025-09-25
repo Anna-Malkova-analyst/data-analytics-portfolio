@@ -52,4 +52,4 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code / Queries:** [`SQL Queries`](#)  
 **Dashboard:** [`DataLens Dashboard`](https://datalens.yandex/01cxdv7d0mm6l)  
-**Analytical Note:** [`Report`](#)
+**Analytical Note:** [`Report`](https://disk.yandex.kz/i/IlaU74xJs_LIrA)
